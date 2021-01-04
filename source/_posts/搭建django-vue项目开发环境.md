@@ -2,11 +2,11 @@
 title: 搭建django&vue项目开发环境
 date: 2019-09-18 18:31:48
 tags:
-    -django
-    -vue
-    -跨域访问
+    - django
+    - vue
+    - 跨域访问
 categories: 
-    -个人博客搭建
+    - 个人博客搭建
 ---
 > 本篇将手把手教你从头构建以vue作为前端，以django作为后端的前后端分离的项目开发环境。
 >
