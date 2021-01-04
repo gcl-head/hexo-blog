@@ -3,12 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: ImBighead
+subtitle: "bighead's blog"
 description: ''
 keywords:
-author: John Doe
-language: en
+  -blog
+author: bighead
+language: ch
 timezone: ''
 
 # URL
