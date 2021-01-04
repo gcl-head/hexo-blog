@@ -1,6 +1,7 @@
 ---
 title: 搭建django&vue项目开发环境
 date: 2019-09-18 18:31:48
+updated: 2019-09-18 18:31:48
 tags:
     - django
     - vue
