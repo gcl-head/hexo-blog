@@ -5,11 +5,11 @@
 # Site
 title: ImBighead
 subtitle: "Bighead's blog"
-description: ''
+description: "Hello, this is a [hexo](https://hexo.io/) blog Using Vesselin Tzvetkov's [solar-theme](https://github.com/tzvetkov75/solar-theme-hexo). I will share my study and life here. Hope you can find what you want here and have fun."
 keywords:
   -blog
 author: bighead
-language: zh-CN
+language: en
 timezone: ''
 
 # URL
@@ -103,7 +103,9 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
+
 theme: solar
+#theme: cactus
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
