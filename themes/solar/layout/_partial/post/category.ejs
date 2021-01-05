@@ -1,0 +1,6 @@
+<% if (page.categories && page.categories.length) { %>
+    <div class="article-category">
+        <i class="fa fa-bars"></i>
+        <%- list_tags(page.categories, { show_count: false, style: 'link' }) %>
+    </div>
+<% } %>

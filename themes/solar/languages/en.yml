@@ -1,0 +1,34 @@
+nav:
+  home: Home
+  about: About
+  articles: Writing
+  tag: Tag
+  category: Category
+  projects: Projects
+  search: Search
+
+search:
+  search: Search...
+  no_results: No results found.
+
+tag_cloud:
+  zero: No tags
+
+counter:
+  tag_cloud:
+    zero: No tags
+    one: ""
+    other: ""
+
+  categories:
+    zero: No categories
+    one: ""
+    other: ""
+
+  archive_posts:
+    zero: No posts.
+    one: ""
+    other: ""
+
+comments:
+  no_js: Please enable JavaScript to view the comments.
