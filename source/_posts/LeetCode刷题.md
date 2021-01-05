@@ -5,6 +5,7 @@ updated: 2019-10-16 22:17:33
 tags:
     - leetcode
     - 刷题
+categories: algorithm
 ---
 ## 1、公交站间的距离
 

@@ -4,12 +4,12 @@
 
 # Site
 title: ImBighead
-subtitle: "bighead's blog"
+subtitle: "Bighead's blog"
 description: ''
 keywords:
   -blog
 author: bighead
-language: ch
+language: zh-CN
 timezone: ''
 
 # URL
@@ -64,6 +64,10 @@ prismjs:
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: ''
+  per_page: 10
+  order_by: -updated
+
+archive_generator:
   per_page: 10
   order_by: -updated
 

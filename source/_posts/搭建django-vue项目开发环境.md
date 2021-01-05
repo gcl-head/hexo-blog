@@ -6,6 +6,7 @@ tags:
     - django
     - vue
     - 跨域访问
+categories: projects
 ---
 > 本篇将手把手教你从头构建以vue作为前端，以django作为后端的前后端分离的项目开发环境。
 >

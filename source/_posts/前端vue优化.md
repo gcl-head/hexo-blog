@@ -6,6 +6,7 @@ tags:
     - vue
     - vuex
     - axios
+categories: projects
 ---
 上一节我们用django和vue构建了基础的实现了前后端分离的项目开发环境，本节我们将为前端架构进行一定地优化，让我们可以更加优雅地进行前端的编写。
 
