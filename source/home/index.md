@@ -10,8 +10,8 @@ Hello, this is a [hexo](https://hexo.io/) blog Using Vesselin Tzvetkov's [solar-
 Actually, this is my second personal blog. My last blog, a big curde through, can also be called minimalism, is based on Vue and Django with the idea of learning web development technology. If interested, you can visit it through [bighead.net.cn](https://bighead.net.cn/), or if the website cannot be accessed, you can directly see the code by checking [github.com/gcl-head/blog](https://github.com/gcl-head/blog).
 
 ## My everyday
-<div style="background: black;padding: 9px 8px 0px 8px; width: 30vw;
-margin: 3rem auto 0;">
+<div style="background: black;padding: 9px 8px 0px 8px; max-width: 30rem;min-width: 15rem;
+margin: 3rem auto 0; overflow-x: auto;">
     <div style="font-size: larger;">
         <span style="color: #f501ef; ">void</span><span style="color: #00ff06; "> everyday_work</span> () {
         <div style="margin-left: 2em;">
