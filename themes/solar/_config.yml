@@ -35,7 +35,7 @@ customize:
         instagram: https://www.instagram.com/bbiggesthead/
         linkedin: https://www.linkedin.com/in/%E8%91%A1%E8%90%84-%E5%A4%A7-3256a5203/
     post_count: 5
-    highlight: monokai
+    highlight: obsidian
 
 # keept it like this to add the root path (probably a bug)
 root: ..
